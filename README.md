@@ -1,5 +1,6 @@
 # HTTPS-VS-HTTPS-Proxy
 In this article, we’ll delve into the full understanding of HTTPS proxy. How HTTPS web proxy works and why you need it, its role in ensuring a secure online experience.
+![image](https://github.com/OkeyProxyCom/HTTPS-VS-HTTPS-Proxy/assets/150340973/d4052613-e16a-4047-ab1b-75d34066113c)
 
 # Understanding HTTP
 HTTP (HyperText Transfer Protocol) is the protocol used for transferring data over the internet. It is a request-response protocol in the client-server computing model. A web browser, for example, may be the client, and an application running on a computer hosting a website may be the server. The client submits an HTTP request to the server, and the server returns a response to the client. The response contains completion status information about the request and may also contain any content requested by the client in its message body.
@@ -14,7 +15,9 @@ An HTTP Proxy is a server that acts as an intermediary for requests from clients
 ![image](https://github.com/OkeyProxyCom/HTTPS-VS-HTTPS-Proxy/assets/150340973/ffc99143-3638-4f35-88f6-2b06802cfea5)
 
 An HTTPS proxy, also known as an SSL proxy, is a type of proxy server that is capable of handling HTTPS requests from clients and establishing a secure connection to the requested website. People usually divide proxy types according to two standards: connection method or device types that act as proxy. The SSL means Secure Sockets Layer. It is the “S” in HTTPS -SSL-based hypertext transfer protocol. The SSL or HTTPS proxy indicates that you use an HTTPS protocol to connect through the proxy server.
+
 Recommend Top 5 Socks5 Proxy Provider OkeyProxy — Buy Residential Socks5 Proxy with 150M+ Residential Proxies from 200+ Countries.https://www.okeyproxy.com/en/residential-proxies 
+
 Get 1GB free Trial of Residential Proxies Now! https://www.okeyproxy.com/proxy/free-trial-of-residential-proxies/
 
 
